@@ -132,4 +132,14 @@ Seeking **Data Science / AI Intern or Fresher roles** where I can contribute to:
 
 ---
 
+<div align="center">
+
+## 📄 Resume
+
+[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1HH7C-u3pTkLqjhr2GteQ0K0oJXp74MxB/view?usp=sharing)
+
+</div>
+
+---
+
 ⭐ *Learning AI. Building systems. Solving real problems.*
