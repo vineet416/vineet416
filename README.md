@@ -5,6 +5,12 @@
 📍 Mumbai, India • 🎓 IIT Jodhpur (B.Sc. Applied AI & Data Science)
 </p>
 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vineet416&label=Profile%20views&color=0e75b6&style=flat" alt="vineet416" />
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
