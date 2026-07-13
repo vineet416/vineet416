@@ -67,41 +67,6 @@ Currently pursuing a **B.Sc. in Applied AI & Data Science at IIT Jodhpur**, I en
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 FinEduGuide – AI Finance Assistant
-- AI-powered finance education assistant using Retrieval-Augmented Generation (RAG)
-- Built with FastAPI, Streamlit, Pinecone, LangChain, and LLMs
-- Deployed on AWS with a scalable backend architecture
-
-🔗 **Links:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vineet416/FinEduGuide-AI-Assistant)
-[![Live App](https://img.shields.io/badge/Live_App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://fineduguide-ai-assistant.streamlit.app/)
-[![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=EQjH1oloHyc)
-
----
-
-### 🔹 Credit Card Default Prediction
-- End-to-end machine learning pipeline for credit risk prediction
-- Performed EDA, feature engineering, and model evaluation
-- Deployed an interactive Streamlit app for real-time predictions
-
-🔗 **Links:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vineet416/Credit_Card_Default_Prediction)
-[![Live App](https://img.shields.io/badge/Live_App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://credit-card--default-prediction.streamlit.app/)
-
----
-
-### 🔹 Telecom Customer Churn Analytics
-- Business-focused churn analysis using MySQL, Python, and Power BI
-- Identified key churn drivers and quantified revenue at risk
-- Built executive dashboards for decision-making
-
-🔗 **Links:**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vineet416/Telecom-Customer-Churn-Analytics)
-
----
-
 ## 🎯 Career Objective
 
 Seeking **Data Science / AI Intern or Fresher roles** where I can contribute to:
