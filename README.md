@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet Patel</h1>
-<h3 align="center">Aspiring Data Scientist & AI Intern | AI & Data Science @ IIT Jodhpur</h3>
+<h3 align="center">Aspiring AI/ML Engineer | AI & Data Science @ IIT Jodhpur</h3>
 
 <p align="center">
 📍 Mumbai, India • 🎓 IIT Jodhpur (AI & Data Science)
@@ -19,7 +19,7 @@ I am an aspiring **Data Scientist and AI Engineer** with a strong foundation in 
 
 Currently pursuing a **Bachelor's in AI & Data Science at IIT Jodhpur**, I enjoy building **end-to-end projects**—from data exploration and modeling to deployment and insight generation.
 
-🔍 Actively seeking **Data Science / AI Intern or Fresher roles** where I can work on real-world ML and AI-driven problems.
+🔍 Actively seeking **AI/ML Engineer roles** where I can work on real-world ML and AI-driven problems.
 
 ---
 
